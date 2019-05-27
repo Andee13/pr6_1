@@ -1,0 +1,6 @@
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programming\C#\my files\Москаленко\практика6\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
